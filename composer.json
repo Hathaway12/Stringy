@@ -1,5 +1,5 @@
 {
-    "name": "voku/stringy",
+    "name": "bennerinformatics/stringy",
     "description": "A string manipulation library with multibyte support",
     "keywords": [
         "helpers",
@@ -47,7 +47,8 @@
         "phpunit/phpunit": "~6.0 || ~7.0 || ~9.0"
     },
     "replace": {
-        "danielstjules/stringy": "~3.0"
+        "danielstjules/stringy": "~3.0",
+        "voku/stringy": "*"
     },
     "autoload": {
         "psr-4": {
